@@ -1,4 +1,9 @@
-# presentacionesJupyter
-Este repositorio muestra cómo se hacen correctamente las presentaciones en Jupyter
+# Jupyter presentations
 
-El principal problema de usar el kernel de R en Jupyter es que las imágenes salen demasiado grandes. Este repositorio muestra un ejemplo de cómo solucionar esto mediante el comando **options()** de R.
+A collection of some useful tips about how to tweak the plots and images of Jupyter notebooks and reveal.js slides. 
+ 
+For both the  Python and R kernels:
+* How to change the default size of the plots for the whole notebook.
+* How to change the size of an image included in a Markdown cell.
+* How to change the number of rows and columns of a "printed" dataframe.
+* How to make custom legends from scratch with the base library (matplotlib or base).
